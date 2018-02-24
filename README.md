@@ -1,7 +1,9 @@
 # Groovesizer_RED
-16-step sequencer and granular synth
-More info: https://groovesizer.com/red/
-It’s based on the original Groovesizer mk1 Arduino project. It features 16 LEDs (one per step), 5 potentiometers, and 5 buttons, MIDI input and ouput on 5-pin DINs, MIDI sync in and out, and audio out (mono) on an 1/8″ jack. There are 32 user locations for saving patterns and patches. Up to 4 patterns can be chained together to create a 4 bar pattern. Note entry can be quantized to one of 12 pre-defined scales. Patterns can be triggered and transposed via MIDI. Notes can also be entered via an attached MIDI keyboard.Features at a glance:
+<br>16-step sequencer and granular synth
+<br>More info: https://groovesizer.com/red/
+<br>It’s based on the original Groovesizer mk1 Arduino project. It features 16 LEDs (one per step), 5 potentiometers, and 5 buttons, MIDI input and ouput on 5-pin DINs, MIDI sync in and out, and audio out (mono) on an 1/8″ jack. There are 32 user locations for saving patterns and patches. Up to 4 patterns can be chained together to create a 4 bar pattern. Note entry can be quantized to one of 12 pre-defined scales. Patterns can be triggered and transposed via MIDI. Notes can also be entered via an attached MIDI keyboard.
+
+<br>Features at a glance:
 
 SYNTH
   - granular synth based on Auduino
